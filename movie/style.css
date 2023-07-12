@@ -1,0 +1,84 @@
+.body{
+    background-color: rgb(0, 0, 0);
+}
+.button1{
+    background-color: transparent;
+    color: white;
+    border: none;
+}
+.button1:hover{
+    background-color: grey;
+    color: black;
+}
+.button2{
+    background-color: transparent;
+    color: white;
+    border: none;
+}
+.button2:hover{
+    background-color: grey;
+    color: black;
+}
+.button3{
+    background-color: transparent;
+    color: white;
+    border: none;
+}
+.button3:hover{
+    background-color: grey;
+    color: black;
+}
+.logo-text {
+    font-size: 18px;
+    font-weight: bold;
+    font-size: 150%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+.card{
+    background-color: #160d08;
+    height: 23%;
+    width: 17%;
+}
+.card:hover{
+    background-color: grey;
+    color: white;
+}
+.container{
+    display: flex;
+    justify-content: space-between ;
+}
+.name{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: chocolate;
+    margin-left: 4.5%;
+    margin-right: 4.5%;
+    margin-bottom: 2%;
+}
+
+.title{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.footer-clean {
+    margin-top: 1%;
+    margin-left: 7%;
+    margin-right: 7%;
+    padding: 50px 0;
+    position: absolute;
+    left: 25%;
+    background-color: transparent;
+    color: #4b4c4d;
+}
+
+.footer-clean h3 {
+    margin-top: 0;
+    margin-bottom: 12px;
+    font-weight: bold;
+    font-size: 16px;
+    color: white;
+}
+.footer{
+    color: bisque;
+}
