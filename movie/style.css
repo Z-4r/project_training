@@ -39,10 +39,12 @@
     color: cadetblue;
     height: 23%;
     width: 17%;
+    transition: transform 0.3s ease;
 }
 .card:hover{
     background-color: grey;
     color: white;
+    transform: scale(1.1);
 }
 .container{
     display: flex;
